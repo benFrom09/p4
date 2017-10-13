@@ -1,0 +1,1 @@
+<h1>je suis la page index</h1>
